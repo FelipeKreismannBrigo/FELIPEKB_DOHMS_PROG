@@ -15,3 +15,7 @@ for numero in lista:
 print("Números multiplicados por 2:")
 for numero in lista_multiplicada:
     print(numero)
+   
+print("lista multiplicada por 2")
+
+print(lista_multiplicada)
